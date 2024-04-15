@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact@sairoon.com**
 
-- ⚡ Fun fact **I think, I'm unsocial person.**
+- ⚡ Fun fact **I think, I'm an unsocial person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
