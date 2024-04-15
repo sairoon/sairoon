@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Next.js**
 
-- 👨‍💻 All of my projects are available at [HTTP://sairoon.com](sairoon.com)
+- 👨‍💻 All of my projects are available at [sairoon.com](http://sairoon.com)
 
 - 💬 Ask me about **Full stack web development**
 
