@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairoon&label=Profile%20views&color=0e75b6&style=flat" alt="sairoon" /> </p>
 
-- 🌱 I’m currently learning **React & Next.js**
+- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [sairoon.com](http://sairoon.com)
 
