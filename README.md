@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything.**
 
-- 👨‍💻 All of my projects are available at [sairoon.com](http://sairoon.com)
+- 👨‍💻 Some of my projects are available at [sairoon.com](http://sairoon.com)
 
 - 💬 Ask me about **Full stack web development.**
 
