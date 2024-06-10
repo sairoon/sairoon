@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairoon&label=Profile%20views&color=0e75b6&style=flat" alt="sairoon"/> </p>
 
-- 🌱 I’m currently learning **Everything.**
+- 🌱 I’m currently learning **Everything. **
 
 - 👨‍💻 Some of my projects are available on [sairoon.com](http://sairoon.com)
 
