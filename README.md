@@ -35,7 +35,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairoon&show_icons=true&locale=en&layout=compact&theme=dark" style="height:200px" alt="sairoon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairoon&show_icons=true&locale=en&layout=compact&theme=dark" style="height:180px" alt="sairoon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairoon&show_icons=true&locale=en&theme=dark" style="height:200px" alt="sairoon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairoon&show_icons=true&locale=en&theme=dark" style="height:180px" alt="sairoon" /></p>
 
