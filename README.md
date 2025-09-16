@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything.**
 
-- 👨‍💻 Some of my projects are available on [amkmahmud.com](http://smkmahmud.com)
+- 👨‍💻 Some of my projects are available on [smkmahmud.com](http://smkmahmud.com)
 
 - 💬 Ask me about **Full stack web development.**
 
