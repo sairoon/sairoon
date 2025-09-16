@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Everything.**
 
-- 👨‍💻 Some of my projects are available on [sairoon.com](http://sairoon.com)
+- 👨‍💻 Some of my projects are available on [sairoon.com](http://smkmahmud.com)
 
 - 💬 Ask me about **Full stack web development.**
 
-- 📫 How to reach me **contact360@sairoon.com**
+- 📫 How to reach me **info@smkmahmud.com**
 
 - ⚡ Fun fact **I think, I'm an unsocial person.**
 
