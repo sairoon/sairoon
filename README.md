@@ -17,9 +17,11 @@
 
 I'm an indie full-stack developer based in Bangladesh, dedicated to building the digital world one pixel at a time. I enjoy the challenge of creating modern, scalable web applications from the ground up. For me, development isn’t just about writing code; it’s about planning, designing, and engineering solutions that solve real-world problems.
 
+I like understanding the **"how" and "why"** behind every project, from the first line of code to the final deployment. Clean architecture, thoughtful UX, and maintainable code are the foundation of everything I build.
+
 - 🚀 **Current Stack:** MERN (MongoDB, Express, React, Node.js) & Next.js
 - 🎨 **Design Philosophy:** Modern, minimal, and user-centric. If it’s not elegant, it’s not finished.
-- 🛠️ **Building Approach:** I enjoy building systems from **scratch**, diving deep into how things work instead of relying only on abstractions.
+- 🛠️ **Building Approach:** I enjoy building systems from **scratch**, diving deep into how things work instead of relying only on abstractions. It helps me craft solutions that are both flexible and scalable.
 - 💬 **Ask Me About:** React • Tailwind CSS • Web Animation
 - 🧠 **Currently Exploring:** Advanced animation techniques.
 
