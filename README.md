@@ -28,9 +28,9 @@ If it’s not elegant, it’s not finished.
 
 - 🛠️ **Building Approach:** I enjoy building systems from ***scratch***, diving deep into how things work instead of relying only on abstractions. It helps me craft solutions that are both flexible and scalable.
 
-- 💬 **Ask Me About:** React • Tailwind CSS • Framer Motion
+- 💬 **Ask Me About:** React • Tailwind CSS • Web Animation`
 
-- 🧠 **Currently Exploring:** AI-native development and advanced animation techniques.
+- 🧠 **Currently Exploring:** Advanced animation techniques.
 
 ### ✍️ Beyond Code
 
