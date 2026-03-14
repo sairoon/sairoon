@@ -39,7 +39,7 @@ When I'm not coding, I enjoy ***writing short creative pieces and micro-stories*
 1. 🖼️ **Portfolio:**
 View my work at [smkmahmud.com](https://smkmahmud.com/)
 2. 📫 **Collaboration:**
- How to reach me <a href="mailto:smbdmahmud1010@gmail.com" target="_blank">smbdmahmud1010@gmail.com</a>
+ How to reach me [smbdmahmud1010@gmail.com](mailto:smbdmahmud1010@gmail.com)
 
 
 
