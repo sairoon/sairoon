@@ -50,7 +50,7 @@ When I'm not coding, I enjoy writing short creative pieces and micro-stories. It
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,nextjs,php,laravel,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Environment & Tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,vite,npm,figma,postman,vercel,firebase&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,phpstorm,git,vite,npm,figma,postman,vercel,firebase&theme=dark)](https://skillicons.dev)
 
 ---
 
