@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" height="280px"/>
 
 ## 📌 About Me
-#### Hey, I'm Mahmud <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="24px" width="24px">
+### Hey, I'm Mahmud <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="24px" width="24px">
 
 
 
@@ -32,7 +32,7 @@ If it’s not elegant, it’s not finished.
 
 - 🧠 **Currently Exploring:** AI-native development and advanced animation techniques.
 
-#### ✍️ Beyond Code
+### ✍️ Beyond Code
 
 When I'm not coding, I enjoy ***writing short creative pieces and micro-stories***. It’s my way of exploring ideas, playing with language, and exercising creativity outside of code.
 
