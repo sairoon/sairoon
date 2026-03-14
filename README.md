@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" height="280px"/>
 
 ## 📌 About Me
-### Hey, I'm Mahmud 👋
+### Hey, I'm Mahmud <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="24px" width="24px">
 
 I'm an indie full-stack developer based in Bangladesh, dedicated to building the digital world one pixel at a time. I enjoy the challenge of creating modern, scalable web applications from the ground up. For me, development isn’t just about writing code; it’s about planning, designing, and engineering solutions that solve real-world problems.
 
