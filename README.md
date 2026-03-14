@@ -37,6 +37,8 @@ When I'm not coding, I enjoy writing short creative pieces and micro-stories. It
     <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sairoon&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Sairoon&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <a href="https://github.com/Sairoon">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sairoon&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   <img src="https://trophy.ryglcloud.net/?username=Sairoon&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="S. M Khaled Mahmud's GitHub Trophies" />
 </p>
 
