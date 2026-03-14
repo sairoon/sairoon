@@ -15,8 +15,6 @@
 ## 📌 About Me
 ### Hey, I'm Mahmud <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="24px" width="24px">
 
-
-
 I'm an indie full-stack developer based in Bangladesh, dedicated to building the digital world one pixel at a time. I enjoy the challenge of creating modern, scalable web applications from the ground up. For me, development isn’t just about writing code. It’s about planning, designing, and engineering solutions that solve real-world problems.
 
 I like understanding the **"how" and "why"** behind every project, from the first line of code to the final deployment. Clean architecture, thoughtful UX, and maintainable code are the foundation of everything I build.
