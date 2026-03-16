@@ -46,7 +46,7 @@ When I'm not coding, I enjoy writing short creative pieces and micro-stories. It
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="24" height="24"> Languages & Tools
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="20" height="20"> Languages & Tools
 
 ### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,nextjs,php,laravel,mongodb,mysql&theme=dark)](https://skillicons.dev)
