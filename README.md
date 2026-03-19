@@ -15,7 +15,7 @@
 ## 📌 About Me
 ### Hey, I'm Mahmud <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="20" height="20">
 
-I'm an indie full-stack developer based in Bangladesh, dedicated to building the digital world one pixel at a time. I enjoy the challenge of creating modern, scalable web applications from the ground up. For me, development isn’t just about writing code. It’s about planning, designing, and engineering solutions that solve real-world problems.
+I'm an indie full-stack developer based in Bangladesh, dedicated to building the puzzle of the digital world, piece by piece. I enjoy the challenge of creating modern, scalable web applications from the ground up. For me, development isn’t just about writing code. It’s about planning, designing, and engineering solutions that solve real-world problems.
 
 I like understanding the **"how" and "why"** behind every project, from the first line of code to the final deployment. Clean architecture, thoughtful UX, and maintainable code are the foundation of everything I build.
 
