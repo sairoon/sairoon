@@ -26,7 +26,7 @@ I like understanding the **"how" and "why"** behind every project, from the firs
 - 🧠 **Currently Exploring:** Advanced animation techniques.
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fb/512.gif" alt="✍" width="24" height="24"> Beyond Code
-When I'm not coding, I enjoy writing short creative pieces and micro-stories. It’s my way of exploring ideas and exercising creativity outside of technical constraints.
+When I'm not coding, I enjoy writing micro-fiction with world-building. It’s my way of exploring ideas and exercising creativity outside of technical constraints.
 
 1. 🖼️ **Portfolio:** View my work at [smkmahmud.com](https://smkmahmud.com/)
 2. 📫 **Collaboration:** Reach me at [smbdmahmud1010@gmail.com](mailto:smbdmahmud1010@gmail.com)
