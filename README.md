@@ -52,7 +52,7 @@ When I'm not coding, I enjoy writing micro-fiction with world-building. It’s m
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,nextjs,php,laravel,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="18" height="18"> Environment & Tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,vite,npm,figma,postman,vercel,firebase&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,vite,npm,figma,postman,vercel,cpanel,firebase&theme=dark)](https://skillicons.dev)
 
 ---
 
